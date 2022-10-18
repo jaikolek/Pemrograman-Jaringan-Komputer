@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "IpnrHZvLHC9ihC5T/Nu4r1b83zXYEKJU7T0XSGv/62syAaZsxbN4Jl/7D2xPb/Rj9y2JnAUY6w+i4HJYdCug2w==",
+  "success": true,
+  "projectFilePath": "D:\\Kuliah\\Semester 5\\Praktikum Pemrograman Jaringan Komputer\\Program\\Layanan RESTful\\Layanan RESTful.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DANIEL DANANG\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\DANIEL DANANG\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\DANIEL DANANG\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\DANIEL DANANG\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\DANIEL DANANG\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\DANIEL DANANG\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
