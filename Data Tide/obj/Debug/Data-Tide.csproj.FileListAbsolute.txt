@@ -1,0 +1,26 @@
+C:\Users\ACER\source\repos\Data-Tide\Data-Tide\bin\Debug\Data-Tide.exe.config
+C:\Users\ACER\source\repos\Data-Tide\Data-Tide\bin\Debug\Data-Tide.exe
+C:\Users\ACER\source\repos\Data-Tide\Data-Tide\bin\Debug\Data-Tide.pdb
+C:\Users\ACER\source\repos\Data-Tide\Data-Tide\obj\Debug\Data-Tide.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\Data-Tide\Data-Tide\obj\Debug\Data_Tide.Properties.Resources.resources
+C:\Users\ACER\source\repos\Data-Tide\Data-Tide\obj\Debug\Data-Tide.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\Data-Tide\Data-Tide\obj\Debug\Data-Tide.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Data-Tide\Data-Tide\obj\Debug\Data-Tide.exe
+C:\Users\ACER\source\repos\Data-Tide\Data-Tide\obj\Debug\Data-Tide.pdb
+C:\Users\ACER\source\repos\Data-Tide\Data-Tide\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ACER\source\repos\Data-Tide\Data-Tide\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ACER\source\repos\Data-Tide\Data-Tide\obj\Debug\Data-Tide.csproj.CopyComplete
+C:\Users\ACER\source\repos\Data-Tide\Data-Tide\obj\Debug\TideDiagram.Form1.resources
+D:\Kuliah\Semester 5\Praktikum Pemrograman Jaringan Komputer\Program\Data Tide\Data-Tide\Data-Tide\bin\Debug\Data-Tide.exe.config
+D:\Kuliah\Semester 5\Praktikum Pemrograman Jaringan Komputer\Program\Data Tide\Data-Tide\Data-Tide\bin\Debug\Data-Tide.exe
+D:\Kuliah\Semester 5\Praktikum Pemrograman Jaringan Komputer\Program\Data Tide\Data-Tide\Data-Tide\bin\Debug\Data-Tide.pdb
+D:\Kuliah\Semester 5\Praktikum Pemrograman Jaringan Komputer\Program\Data Tide\Data-Tide\Data-Tide\bin\Debug\Newtonsoft.Json.dll
+D:\Kuliah\Semester 5\Praktikum Pemrograman Jaringan Komputer\Program\Data Tide\Data-Tide\Data-Tide\bin\Debug\Newtonsoft.Json.xml
+D:\Kuliah\Semester 5\Praktikum Pemrograman Jaringan Komputer\Program\Data Tide\Data-Tide\Data-Tide\obj\Debug\Data-Tide.csproj.AssemblyReference.cache
+D:\Kuliah\Semester 5\Praktikum Pemrograman Jaringan Komputer\Program\Data Tide\Data-Tide\Data-Tide\obj\Debug\TideDiagram.Form1.resources
+D:\Kuliah\Semester 5\Praktikum Pemrograman Jaringan Komputer\Program\Data Tide\Data-Tide\Data-Tide\obj\Debug\Data_Tide.Properties.Resources.resources
+D:\Kuliah\Semester 5\Praktikum Pemrograman Jaringan Komputer\Program\Data Tide\Data-Tide\Data-Tide\obj\Debug\Data-Tide.csproj.GenerateResource.cache
+D:\Kuliah\Semester 5\Praktikum Pemrograman Jaringan Komputer\Program\Data Tide\Data-Tide\Data-Tide\obj\Debug\Data-Tide.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 5\Praktikum Pemrograman Jaringan Komputer\Program\Data Tide\Data-Tide\Data-Tide\obj\Debug\Data-Tide.csproj.CopyComplete
+D:\Kuliah\Semester 5\Praktikum Pemrograman Jaringan Komputer\Program\Data Tide\Data-Tide\Data-Tide\obj\Debug\Data-Tide.exe
+D:\Kuliah\Semester 5\Praktikum Pemrograman Jaringan Komputer\Program\Data Tide\Data-Tide\Data-Tide\obj\Debug\Data-Tide.pdb
